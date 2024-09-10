@@ -225,7 +225,7 @@
 
     <div class="heroe">
 
-        <h1>Bienvenidos y se sincronizo por sexta vez <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+        <h1>XXX <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
         <h2>The small framework with powerful features</h2>
 
